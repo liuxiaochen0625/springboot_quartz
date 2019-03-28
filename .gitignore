@@ -1,0 +1,59 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+target/
+.svn/
+.versionsBackup
+*.swp
+*.iml
+.gradle
+/local.properties
+.idea/
+/build
+.project
+.settings/
+.classpath
+logs/
+pdf/
+
+
+#some local files
+*/.settings/
+*/.DS_Store
+.DS_Store
+*/.idea/
+
+## File-based project format:
+*.iws
+*.iml
+*.ipr
+
+## Additional for IntelliJ
+out/
+gen/
+*.xls
+*.json
+img/
