@@ -1,6 +1,6 @@
 /**
- * Weidai
- * Copyright (C), 2011 - 2019, 微贷网.
+ *
+ * Copyright (C), 2011 - 2019, .
  */
 package com.example.demo.util;
 
