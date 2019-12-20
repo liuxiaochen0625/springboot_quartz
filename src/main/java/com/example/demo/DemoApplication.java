@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class);
         System.out.println(hammingDistance(0b1011,0b1000));
         System.out.println(hamming(0b1011,0b1000));
 
